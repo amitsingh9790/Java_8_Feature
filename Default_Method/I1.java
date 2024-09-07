@@ -13,7 +13,7 @@ class A implements I1 {
         System.out.println("I am m1 from class A");
     }
     @Override
-    public void m2(){ // overriding m2() is optional
+    public void m2(){ // overriding m2() is optional 
         System.out.println("I am m2 from class B");
     }
 }
